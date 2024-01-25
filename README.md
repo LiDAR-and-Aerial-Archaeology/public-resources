@@ -4,43 +4,50 @@
 *A collection of public resources for aerial archaeology: LiDAR, aerial imagery, historic maps, and more*
 
 ## Table of Contents
-1. [LiDAR Maps & Data](#lidar-maps--data)
+1. [LiDAR & Aerial Imagery](#lidar--aerial-imagery)
 2. [Historic Maps](#historic-maps)
 3. [Aerial Imagery](#aerial-imagery)
 4. [Archaeological Registers](#archaeological-registers)
-5. [Tutorials & Training](#tutorials--training)
-4. [Contribute](#contribute)
-6. [Contact](#contact)
+5. [Global Misc Resources](#global-misc-resources)
+6. [Tutorials & Training](#tutorials--training)
+7. [Contribute](#contribute)
+8. [Contact](#contact)
 
-## LiDAR Maps & Data
-| Region | Resource Link | Notes |
-| ------ | ------------- | ----- |
-| Afghanistan | [Afghanistan Site Register](#) | Example note about this resource |
-| ...    | ...           | ...   |
+## LiDAR & Aerial Imagery
+| Country | Region | Link | Notes |
+| ------- | ------ | ---- | ----- |
+| Afghanistan | [Specific Region] | [Afghanistan Site Register](#) | Example note about this resource |
+| ...     | ...    | ...  | ...   |
 
 ## Historic Maps
-| Region | Resource Link | Notes |
-| ------ | ------------- | ----- |
-| Bulgaria | [Bulgaria Archaeological Register](#) | Example note about this resource |
-| ...     | ...           | ...   |
+| Country | Region | Link | Notes |
+| ------- | ------ | ---- | ----- |
+| Bulgaria | [Specific Region] | [Bulgaria Archaeological Register](#) | Example note about this resource |
+| ...     | ...    | ...  | ...   |
 
 ## Aerial Imagery
-| Region | Resource Link | Notes |
-| ------ | ------------- | ----- |
-| Canada | [Canada Historic Places](#) | Example note about this resource |
-| ...    | ...           | ...   |
+| Country | Region | Link | Notes |
+| ------- | ------ | ---- | ----- |
+| Canada | [Specific Region] | [Canada Historic Places](#) | Example note about this resource |
+| ...    | ...    | ...  | ...   |
 
 ## Archaeological Registers
-| Region | Resource Link | Notes |
-| ------ | ------------- | ----- |
-| Canada | [Canada Historic Places](#) | Example note about this resource |
-| ...    | ...           | ...   |
+| Country | Region | Link | Notes |
+| ------- | ------ | ---- | ----- |
+| Canada | [Specific Region] | [Canada Historic Places](#) | Example note about this resource |
+| ...    | ...    | ...  | ...   |
+
+## Global Misc Resources
+| Country | Region | Link | Notes |
+| ------- | ------ | ---- | ----- |
+| [N/A for Global Resources] | [Specific Region or N/A] | [Resource Link](#) | Example note about global resource |
+| ...    | ...    | ...  | ...   |
 
 ## Tutorials & Training
-| Region | Resource Link | Notes |
-| ------ | ------------- | ----- |
-| Canada | [Canada Historic Places](#) | Example note about this resource |
-| ...    | ...           | ...   |
+| Country | Region | Link | Notes |
+| ------- | ------ | ---- | ----- |
+| [Country if applicable] | [Specific Region or N/A] | [Resource Link](#) | Example note about the tutorial |
+| ...    | ...    | ...  | ...   |
 
 ## Contribute
 If you're interested in contributing, please see our [guide to contributing](#).
