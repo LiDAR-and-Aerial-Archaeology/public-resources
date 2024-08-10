@@ -14,10 +14,19 @@ _A collection of public resources for aerial archaeology: LiDAR, aerial imagery,
 
 ## LiDAR & Aerial Imagery
 
-| Country     | Region            | Link                           | Notes                            |
-| ----------- | ----------------- | ------------------------------ | -------------------------------- |
-| Afghanistan | [Specific Region] | [Afghanistan Site Register](#) | Example note about this resource |
-| ...         | ...               | ...                            | ...                              |
+| Region/Location                                | Resource                                                                                                                                                                                                                                      |
+| ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Antarctic                                      | [LiDAR OpenTopography McMurdo Sound region](https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.112016.3294.1&fbclid=IwAR1THZdkfBZcHlKQKfl8p6uKJA9UWOa1vHPI1VDQGhFK80C9aTny9zN5o3s)                                           |
+| Antarctic                                      | [LiDAR REMA Explorer](https://rema.apps.pgc.umn.edu/)                                                                                                                                                                                         |
+| Arctic (Greenland, parts of Canada and Russia) | [LiDAR Living Atlas](https://livingatlas2.arcgis.com/arcticdemexplorer/?fbclid=IwAR1Wg0PGoul2mD5vZGOEKesMSWvNvh76MPZIVc12Y4yDd1zBVTx-XsxyTpo)                                                                                                 |
+| Africa                                         | [Aerial Photography Digital Earth Africa Explorer](https://livingatlas2.arcgis.com/digitalearthafrica/)                                                                                                                                       |
+| Africa                                         | [LiDAR Researchgate](https://www.researchgate.net/figure/LiDAR-coverage-red-amassed-in-southern-Africa-including-South-Africa-Namibia-and_fig2_325733286)                                                                                     |
+| India                                          | [LiDAR Bhuvan Indian Geo-Platform](https://bhuvan-app3.nrsc.gov.in/data/download/index.php)                                                                                                                                                   |
+| Israel/Palestine                               | [Aerial Photography GOVMAP](https://www.govmap.gov.il/?c=204000,595000&z=0&fbclid=IwAR1TL8bDMUDZVHKxYiRsbwwaEROb8pDyU2dwxkBJaoLMQPdGzHkfvqlpTUQ_aem_AUeUDMvIsx_Nc7kQOSDtNPDcp4FlXYvQCkD_7o4iYBvy9q233HWHRvJ3HoM1dyzedFU3qTteAL2gmPyguiMB5lgm) |
+| Jordan                                         | [Aerial Photography APAAME](https://www.flickr.com/photos/apaame/collections?fbclid=IwAR2Npce8_t-3zP3R01ABeBbexq63cstArrpbvsOTxvkhcUs_nokW_C2HIxg)                                                                                            |
+| Philippines                                    | [LiDAR LIPAD](https://lipad.dream.upd.edu.ph/)                                                                                                                                                                                                |
+| Thailand                                       | [LiDAR SAVGIS](http://savgis.org/donnees-sig-2/thailand.html)                                                                                                                                                                                 |
+| Vietnam                                        | [LiDAR Open Development](https://data.opendevelopmentmekong.net/en/dataset/digital-elevation-model-dem)                                                                                                                                       |
 
 ## Old Maps
 
