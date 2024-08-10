@@ -58,32 +58,32 @@ _A collection of public resources for aerial archaeology: LiDAR, aerial imagery,
 
 ### QGIS Tutorials
 
-| Title                                        | Type                   | Link                                                                                        |
-| -------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------- |
-| QGIS Training Manual                         | Documentation          | [QGIS Training Manual](https://docs.qgis.org/3.28/en/docs/training_manual/index.html)       |
-| QGIS Download                                | Software Download      | [QGIS Download](https://www.qgis.org/en/site/forusers/download.html)                        |
-| QGIS An Absolute Beginners Guide             | Video Tutorial (QGIS)  | [QGIS An Absolute Beginners Guide](https://www.youtube.com/watch?v=NHolzMgaqwE)             |
-| QGIS MAGIC Webinar: Using LiDAR Data in QGIS | Webinar (LiDAR)        | [QGIS MAGIC Webinar: Using LiDAR Data in QGIS](https://www.youtube.com/watch?v=WhvTyTZUowI) |
-| QGIS LIDAR for Metal Detecting               | Video Tutorial (LiDAR) | [QGIS LIDAR for Metal Detecting](https://www.youtube.com/watch?v=iXP5I-UIRKs)               |
-| QGIS LiDAR to DEM with LAS Tools             | Video Tutorial (LiDAR) | [QGIS LiDAR to DEM with LAS Tools](https://www.youtube.com/watch?v=FFLxnBTgtnw)             |
+| Link                                                                                        | Type                   |
+| ------------------------------------------------------------------------------------------- | ---------------------- |
+| [QGIS Training Manual](https://docs.qgis.org/3.28/en/docs/training_manual/index.html)       | Documentation          |
+| [QGIS Download](https://www.qgis.org/en/site/forusers/download.html)                        | Software Download      |
+| [QGIS An Absolute Beginners Guide](https://www.youtube.com/watch?v=NHolzMgaqwE)             | Video Tutorial (QGIS)  |
+| [QGIS MAGIC Webinar: Using LiDAR Data in QGIS](https://www.youtube.com/watch?v=WhvTyTZUowI) | Webinar (LiDAR)        |
+| [QGIS LIDAR for Metal Detecting](https://www.youtube.com/watch?v=iXP5I-UIRKs)               | Video Tutorial (LiDAR) |
+| [QGIS LiDAR to DEM with LAS Tools](https://www.youtube.com/watch?v=FFLxnBTgtnw)             | Video Tutorial (LiDAR) |
 
 ### 6-Part LiDAR Training Series by Kevin Costello (Pseudomorph Geospatial)
 
-| Part                                                                      | Link                                                       |
-| ------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| Part 1 – Required software and common sources of data                     | [Part 1](https://www.youtube.com/watch?v=egfUU_UtkBc)      |
-| Part 2 – How to merge and classify LiDAR point clouds using cloud compare | [Part 2](https://www.youtube.com/watch?v=vJaBP24JFiI)      |
-| Part 3 – Reprojection of point clouds using PDAL natively in QGIS         | [Part 3](https://www.youtube.com/watch?v=pBsI8_Wk8pM)      |
-| Part 4 – Rasterization of LiDAR point cloud using Open LiDAR Toolbox      | [Part 4](https://www.youtube.com/watch?v=yppGt67Tly0)      |
-| Part 5 – Interpretations of LiDAR visualisations using QGIS               | [Part 5](https://www.youtube.com/watch?v=tuiWSFIgR_U)      |
-| Part 6 – Using a Pre-made DEM for archaeological investigation            | [Part 6](https://www.youtube.com/watch?v=zOsyQL7NFaQ&t=1s) |
+| Link                                                                                                                     | Type                   |
+| ------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
+| [Part 1 – Required software and common sources of data](https://www.youtube.com/watch?v=egfUU_UtkBc)                     | Video Tutorial (LiDAR) |
+| [Part 2 – How to merge and classify LiDAR point clouds using cloud compare](https://www.youtube.com/watch?v=vJaBP24JFiI) | Video Tutorial (LiDAR) |
+| [Part 3 – Reprojection of point clouds using PDAL natively in QGIS](https://www.youtube.com/watch?v=pBsI8_Wk8pM)         | Video Tutorial (LiDAR) |
+| [Part 4 – Rasterization of LiDAR point cloud using Open LiDAR Toolbox](https://www.youtube.com/watch?v=yppGt67Tly0)      | Video Tutorial (LiDAR) |
+| [Part 5 – Interpretations of LiDAR visualisations using QGIS](https://www.youtube.com/watch?v=tuiWSFIgR_U)               | Video Tutorial (LiDAR) |
+| [Part 6 – Using a Pre-made DEM for archaeological investigation](https://www.youtube.com/watch?v=zOsyQL7NFaQ&t=1s)       | Video Tutorial (LiDAR) |
 
 ### Other LiDAR Tutorials
 
-| Title                                           | Type                   | Link                                                                                           |
-| ----------------------------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------- |
-| LiDAR how does it work                          | Video Tutorial (LiDAR) | [LiDAR how does it work](https://www.youtube.com/watch?v=dOvMDbQKpwQ)                          |
-| LiDAR How to overlay LiDAR data on Google Earth | Video Tutorial (LiDAR) | [LiDAR How to overlay LiDAR data on Google Earth](https://www.youtube.com/watch?v=E4SPzxn2vQQ) |
+| Link                                                                                           | Type                   |
+| ---------------------------------------------------------------------------------------------- | ---------------------- |
+| [LiDAR how does it work](https://www.youtube.com/watch?v=dOvMDbQKpwQ)                          | Video Tutorial (LiDAR) |
+| [LiDAR How to overlay LiDAR data on Google Earth](https://www.youtube.com/watch?v=E4SPzxn2vQQ) | Video Tutorial (LiDAR) |
 
 ## Contribute
 
