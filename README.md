@@ -5,7 +5,7 @@ _A collection of public resources for aerial archaeology: LiDAR, aerial imagery,
 ## Table of Contents
 
 1. [LiDAR & Aerial Imagery](#lidar--aerial-imagery)
-2. [Old Maps](#historic-maps)
+2. [Old Maps](#old-maps)
 3. [Archaeological Registers](#archaeological-registers)
 4. [Global Misc Resources](#global-misc-resources)
 5. [Tutorials & Training](#tutorials--training)
