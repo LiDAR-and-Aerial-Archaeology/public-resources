@@ -372,6 +372,7 @@ _A collection of public resources for aerial archaeology: LiDAR, aerial imagery,
 | Satellite imagery / LiDAR                  | [NASA Earth Data](https://search.earthdata.nasa.gov/search/granules?p=C1534729776-LPDAAC_ECS&pg[0][v]=f&tl=1700759918.79!3!!&lat=26.609499727483595&long=65.2939453125&zoom=7)                                 |       |
 | Aerial photography / LiDAR                 | [ATLOGIS Geoinfomatics aerial and LiDAR](https://www.atlogis.com/gis-remote-sensing-en.php)                                                                                                                    |       |
 | Aerial photography / LiDAR / Historic maps | [Aerial photography LiDAR and Historic maps TOPOREC](https://toporec.com)                                                                                                                                      |       |
+| LiDAR / Machine learning                   | [Georgia (USA) earthen mound detector for LiDAR, open source](https://github.com/kbranchuser/archaeohub-ga-mound-detector)                                                                                     |
 
 ## Tutorials & Training
 
